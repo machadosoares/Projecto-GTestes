@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTestes", "GTestes\GTestes.csproj", "{7D7AAA11-73D7-492A-818F-0977E1D4B9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAcess\DataAccess.csproj", "{CF51BE38-2CB7-4824-B1A8-10DF420751CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7AAA11-73D7-492A-818F-0977E1D4B9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7AAA11-73D7-492A-818F-0977E1D4B9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7AAA11-73D7-492A-818F-0977E1D4B9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7AAA11-73D7-492A-818F-0977E1D4B9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF51BE38-2CB7-4824-B1A8-10DF420751CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF51BE38-2CB7-4824-B1A8-10DF420751CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF51BE38-2CB7-4824-B1A8-10DF420751CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF51BE38-2CB7-4824-B1A8-10DF420751CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C941C51-7F67-4BF8-9A3A-6D6A0D9C303A}
+	EndGlobalSection
+EndGlobal
